@@ -1,0 +1,27 @@
+{
+	"name": "Olivia",
+	"student": true,
+	"numberOfPets": 0,
+	"hobbies": ["cooking", "art", "running"],
+	"spotifyPlaylistSongs": [{
+			"artist": "Lewis Capaldi",
+			"song": "before You Go",
+			"releaseDate": "2019"
+		},
+		{
+			"artist": "Sam Smith",
+			"song": "Stay With Me",
+			"releaseDate": "2014"
+		},
+		{
+			"artist": "George Fitzgearld",
+			"song": "rollBack",
+			"releaseDate": "2017"
+		},
+		{
+			"artist": "Underworld",
+			"song": "STAR",
+			"releaseDate": "2019"
+		}
+	]
+}
